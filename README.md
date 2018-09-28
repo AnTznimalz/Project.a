@@ -1,2 +1,2 @@
-# Project.a
-Prepro_Python
+# Python_Solution
+Promblem_of_Python
